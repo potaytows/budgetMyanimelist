@@ -13,7 +13,7 @@ const Searchbox = () => {
       <TextInput 
         onChangeText={onChangeqry}
         value={searchqry}
-        placeholder="Search for anime"
+        placeholder="Search for animes"
       />
     </SafeAreaView>
     
